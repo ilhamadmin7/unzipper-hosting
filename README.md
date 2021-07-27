@@ -35,10 +35,3 @@ Released under GNU/GPL v3
 ## Screenshot   
 ![Screenshot of unzipper](https://cloud.githubusercontent.com/assets/1136761/17080297/1bccbd60-512a-11e6-89cb-c6c112270154.png)
 
-
-## Updates    
-Get latest code at https://github.com/ndeet/unzipper
-
-
-## Credits   
-[See contributors on Github](https://github.com/ndeet/unzipper/graphs/contributors)  
